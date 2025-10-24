@@ -26,7 +26,6 @@ CREATE TABLE IF NOT EXISTS Customers (
   address TEXT
 );
 
-
 -- Orders
 CREATE TABLE IF NOT EXISTS Orders (
   order_id    INT AUTO_INCREMENT PRIMARY KEY,
